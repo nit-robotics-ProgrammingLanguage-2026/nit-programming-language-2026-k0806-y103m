@@ -22,5 +22,3 @@ void split_double(double d, int *int_part, double *frac_part)
     *int_part = (int)d;
     *frac_part = d - (double)(*int_part);
 }
- ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-0806
